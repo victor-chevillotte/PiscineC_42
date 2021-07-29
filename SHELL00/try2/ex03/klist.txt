@@ -1,0 +1,5 @@
+Credentials cache: API:D6C2BB26-A8B6-4400-8131-2B85A7156258
+        Principal: vchevill@42LYON.FR
+
+  Issued                Expires               Principal
+Jul  5 13:42:41 2021  Jul  6 13:42:41 2021  krbtgt/42LYON.FR@42LYON.FR
